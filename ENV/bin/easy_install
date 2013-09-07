@@ -1,4 +1,4 @@
-#!/home/spencer/git/projects/H20plus/ENV/bin/python
+#!/home/spencer/git/projects/PennAppsProjectPro/ENV/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==0.6c11','console_scripts','easy_install'
 __requires__ = 'setuptools==0.6c11'
 import sys

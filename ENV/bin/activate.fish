@@ -32,7 +32,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/spencer/git/projects/H20plus/ENV"
+set -gx VIRTUAL_ENV "/home/spencer/git/projects/PennAppsProjectPro/ENV"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

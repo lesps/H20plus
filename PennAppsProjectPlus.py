@@ -1,7 +1,9 @@
 import os
 from flask import Flask #Import flask
+from flask.ext.sqlalchemy import SQLAlchemy
 
 app = Flask(__name__) #Make name of app name of main file
+db = SQLAlchemy(app)
 
 @app.route('/') #At main url
 def mainPage():
